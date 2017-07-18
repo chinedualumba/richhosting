@@ -1,0 +1,169 @@
+<div class="dt_module dt_m_icon_title dt_module_others  ui-draggable ui-resizable dt_first" data-name="icon_title" data-placeholder="Heading Type 3" style="opacity: 1; z-index: 1;"><span class="ico-headings dt_icon"></span>
+					<span class="dt_module_name">Heading Type 3</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">h2</div><div data-option_name="fontawesome" class="fontawesome dt_module_setting">fa-tasks</div><div data-option_name="class" class="class dt_module_setting"></div><div data-option_name="content" class="content dt_module_setting dtthemes_module_content">Pricing</div></div>
+					<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div>            <div class="dt_module dt_disable_resize dt_fullwidth_section fullwidth_section ui-draggable dt_first" data-name="fullwidth_section" data-placeholder="Fullwidth Section" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name">Fullwidth Section</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_fullwidth" title="Settings" style="display: block;"></span>
+								<span class="dt_add_module_column" title="Add Module" style="display:none;">A</span>
+							</div>
+							<div class="dt_fullwidthsection_data_settings"></div>
+						</div><div class="dt_fullwidth_section_container ui-droppable ui-sortable" aria-disabled="false"><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-draggable dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div><div class="dt_module dt_m_clear dt_module_others dt_disable_resize ui-draggable dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Clear</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div><div class="dt_module dt_m_tabs_horizontal dt_module_general ui-draggable dt_first" data-name="tabs_horizontal" data-placeholder="Tabs - Horizontal" style="opacity: 1; z-index: 1;"><span class="ico-tabs dt_icon"></span>
+					<span class="dt_module_name">Tabs - Horizontal</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div data-option_name="class" class="class dt_module_setting">type2</div><div data-option_name="th_content" class="th_content dt_module_setting dtthemes_module_content"><p>[dt_sc_tab title="Next-gen vps hosting"] [dt_sc_two_third first type =" type1"] [dt_sc_hr_invisible] [dt_sc_clear]</p><h4>Nextgen VPS Hosting</h4><p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis. Nunc at pretium est curabitur commodo leac est venenatis egestas sed aliquet auguevelit, which has been the industry's standard dummy text ever since the 1500s, sem nibh id elit. [dt_sc_hr_invisible_very_small] [dt_sc_clear] [dt_sc_one_half first type =" type1"] [dt_sc_fancy_ul class='type2']</p><ul><li>[dt_sc_fontawesome icon='fa-bolt'] Advanced SAN based storage</li><li>[dt_sc_fontawesome icon='fa-hdd-o'] Fully Managed Support</li><li>[dt_sc_fontawesome icon='fa-gift'] Powered by NetApp, Virtuozzo &amp; CentOS</li></ul><p>[/dt_sc_fancy_ul] [dt_sc_button type="without-icon" link="#" size="medium" target="_blank"]View Plans[/dt_sc_button] [/dt_sc_one_half] [dt_sc_one_half type =" type1"] [dt_sc_pricing_box price="$1,500" per="Per month"] Starting @ [/dt_sc_pricing_box] [/dt_sc_one_half] [/dt_sc_two_third] [dt_sc_one_third type =" type1"] [dt_sc_hr_invisible] [dt_sc_clear]<img class="aligncenter wp-image-1082 size-full" src="http://wedesignthemes.com/themes/dt-multihost/wp-content/uploads/2015/03/server1.png" alt="server1" width="416" height="332">[/dt_sc_one_third] [/dt_sc_tab] [dt_sc_tab title="Performance"] [dt_sc_one_third type =" type1"] [dt_sc_hr_invisible] [dt_sc_clear]<img class="aligncenter wp-image-1083 size-full" src="http://wedesignthemes.com/themes/dt-multihost/wp-content/uploads/2015/03/server2.png" alt="server2" width="416" height="397">[/dt_sc_one_third] [dt_sc_two_third first type =" type1"] [dt_sc_hr_invisible] [dt_sc_clear]</p><h4>Level of Performance</h4><p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, sem nibh id elit. [dt_sc_hr_invisible_very_small] [dt_sc_clear] [dt_sc_one_half first type =" type1"] [dt_sc_fancy_ul class='type2']</p><ul><li>[dt_sc_fontawesome icon='fa-bolt'] Advanced SAN based storage</li><li>[dt_sc_fontawesome icon='fa-hdd-o'] Fully Managed Support</li><li>[dt_sc_fontawesome icon='fa-gift'] Powered by NetApp, Virtuozzo &amp; CentOS</li></ul><p>[/dt_sc_fancy_ul] [dt_sc_button type="without-icon" link="#" size="medium" target="_blank"]View Plans[/dt_sc_button] [/dt_sc_one_half] [dt_sc_one_half type =" type1"] [dt_sc_pricing_box price="$1,500" per="Per month"] Starting @ [/dt_sc_pricing_box] [/dt_sc_one_half] [/dt_sc_two_third] [/dt_sc_tab] [dt_sc_tab title="Effectiveness"] [dt_sc_two_third first type =" type1"] [dt_sc_hr_invisible] [dt_sc_clear]</p><h4>Effectivness of VPS Hosting</h4><p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, sem nibh id elit, when an unknown printer took a galley of type and scrambled specimen book. [dt_sc_hr_invisible_very_small] [dt_sc_clear] [dt_sc_one_half first type =" type1"] [dt_sc_fancy_ul class='type2']</p><ul><li>[dt_sc_fontawesome icon='fa-bolt'] Advanced SAN based storage</li><li>[dt_sc_fontawesome icon='fa-hdd-o'] Fully Managed Support</li><li>[dt_sc_fontawesome icon='fa-gift'] Powered by NetApp, Virtuozzo &amp; CentOS</li></ul><p>[/dt_sc_fancy_ul] [dt_sc_button type="without-icon" link="#" size="medium" target="_blank"]View Plans[/dt_sc_button] [/dt_sc_one_half] [dt_sc_one_half type =" type1"] [dt_sc_pricing_box price="$1,500" per="Per month"] Starting @ [/dt_sc_pricing_box] [/dt_sc_one_half] [/dt_sc_two_third] [dt_sc_one_third type =" type1"] [dt_sc_hr_invisible] [dt_sc_clear]<img class="aligncenter wp-image-1084 size-full" src="http://wedesignthemes.com/themes/dt-multihost/wp-content/uploads/2015/03/server3.png" alt="server3" width="700" height="525">[/dt_sc_one_third] [/dt_sc_tab]</p></div></div>
+					</div><div class="dt_module dt_m_hr_invisible_medium dt_module_others dt_disable_resize ui-draggable dt_first" data-name="hr_invisible_medium" data-placeholder="Whitespace Medium" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace Medium</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div><div class="dt_module dt_m_clear dt_module_others dt_disable_resize ui-draggable dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Clear</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div><div class="dt_module dt_m_title dt_module_others ui-draggable dt_first" data-name="title" data-placeholder="Heading Type 1" style="opacity: 1; z-index: 1;"><span class="ico-headings dt_icon"></span>
+					<span class="dt_module_name">Heading Type 1</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">h2</div><div data-option_name="class" class="class dt_module_setting">left</div><div data-option_name="content" class="content dt_module_setting dtthemes_module_content">SPECIAL OFFERS</div></div>
+					</div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_fourth ui-draggable dt_m_column_no_modules dt_first" data-name="one_fourth" data-placeholder="1/4 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/4 Column</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+								<span class="dt_add_module_column" title="Add Module" style="display:none;">A</span>
+							</div>
+							<div class="dt_columndata_settings"></div>
+						</div><div class="dt_modules_container ui-droppable ui-sortable" aria-disabled="false"><div class="dt_module dt_m_donutchart dt_module_unique ui-draggable ui-resizable dt_first" data-name="donutchart" data-placeholder="Donut Chart" style="opacity: 1; z-index: 1;"><span class="ico-donutchart dt_icon"></span>
+					<span class="dt_module_name">Donut Chart</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"><span class="title">Code: XF235</span></div>
+						<div class="dt_module_settings"><div data-option_name="title" class="title dt_module_setting">Monthly</div><div data-option_name="subtitle" class="subtitle dt_module_setting">Code: XF235</div><div data-option_name="toptext" class="toptext dt_module_setting">Save</div><div data-option_name="bottomtext" class="bottomtext dt_module_setting">off</div><div data-option_name="bgcolor" class="bgcolor dt_module_setting">#f5f5f5</div><div data-option_name="fgcolor" class="fgcolor dt_module_setting">#cc4744</div><div data-option_name="textcolor" class="textcolor dt_module_setting">#cc4744</div><div data-option_name="percent" class="percent dt_module_setting">12</div><div data-option_name="donet_content" class="donet_content dt_module_setting dtthemes_module_content"><p>Has been the industry's standard dummy text ever since the 1500s.</p><p>[dt_sc_button type="without-icon" link="#" size="small" target="_blank" bgcolor="#cc4744"]Select[/dt_sc_button]</p></div></div>
+					</div></div>
+					</div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_fourth ui-draggable dt_m_column_no_modules" data-name="one_fourth" data-placeholder="1/4 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/4 Column</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+								<span class="dt_add_module_column" title="Add Module" style="display:none;">A</span>
+							</div>
+							<div class="dt_columndata_settings"></div>
+						</div><div class="dt_modules_container ui-droppable ui-sortable" aria-disabled="false"><div class="dt_module dt_m_donutchart dt_module_unique ui-draggable ui-resizable dt_first" data-name="donutchart" data-placeholder="Donut Chart" style="opacity: 1; z-index: 1;"><span class="ico-donutchart dt_icon"></span>
+					<span class="dt_module_name">Donut Chart</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"><span class="title">Code: XF235</span></div>
+						<div class="dt_module_settings"><div data-option_name="title" class="title dt_module_setting">Quarterly</div><div data-option_name="subtitle" class="subtitle dt_module_setting">Code: XF235</div><div data-option_name="toptext" class="toptext dt_module_setting">Save</div><div data-option_name="bottomtext" class="bottomtext dt_module_setting">off</div><div data-option_name="bgcolor" class="bgcolor dt_module_setting">#f5f5f5</div><div data-option_name="fgcolor" class="fgcolor dt_module_setting">#fb6e1e</div><div data-option_name="textcolor" class="textcolor dt_module_setting">#fb6e1e</div><div data-option_name="percent" class="percent dt_module_setting">25</div><div data-option_name="donet_content" class="donet_content dt_module_setting dtthemes_module_content"><p>Has been the industry's standard dummy text ever since the 1500s.</p><p>[dt_sc_button type="without-icon" link="#" size="small" target="_blank" bgcolor="#fb6e1e"]Select[/dt_sc_button]</p></div></div>
+					</div></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_fourth ui-draggable dt_m_column_no_modules" data-name="one_fourth" data-placeholder="1/4 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/4 Column</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+								<span class="dt_add_module_column" title="Add Module" style="display:none;">A</span>
+							</div>
+							<div class="dt_columndata_settings"></div>
+						</div><div class="dt_modules_container ui-droppable ui-sortable" aria-disabled="false"><div class="dt_module dt_m_donutchart dt_module_unique ui-draggable ui-resizable dt_first" data-name="donutchart" data-placeholder="Donut Chart" style="opacity: 1; z-index: 1;"><span class="ico-donutchart dt_icon"></span>
+					<span class="dt_module_name">Donut Chart</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"><span class="title">Code: XF235</span></div>
+						<div class="dt_module_settings"><div data-option_name="title" class="title dt_module_setting">Half Yearly</div><div data-option_name="subtitle" class="subtitle dt_module_setting">Code: XF235</div><div data-option_name="toptext" class="toptext dt_module_setting">Save</div><div data-option_name="bottomtext" class="bottomtext dt_module_setting">off</div><div data-option_name="bgcolor" class="bgcolor dt_module_setting">#f5f5f5</div><div data-option_name="fgcolor" class="fgcolor dt_module_setting">#86af53</div><div data-option_name="textcolor" class="textcolor dt_module_setting">#86af53</div><div data-option_name="percent" class="percent dt_module_setting">35</div><div data-option_name="donet_content" class="donet_content dt_module_setting dtthemes_module_content"><p>Has been the industry's standard dummy text ever since the 1500s.</p><p>[dt_sc_button type="without-icon" link="#" size="small" target="_blank" bgcolor="#86af53"]Select[/dt_sc_button]</p></div></div>
+					</div></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_fourth ui-draggable dt_m_column_no_modules" data-name="one_fourth" data-placeholder="1/4 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/4 Column</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+								<span class="dt_add_module_column" title="Add Module" style="display:none;">A</span>
+							</div>
+							<div class="dt_columndata_settings"></div>
+						</div><div class="dt_modules_container ui-droppable ui-sortable" aria-disabled="false"><div class="dt_module dt_m_donutchart dt_module_unique ui-draggable ui-resizable dt_first" data-name="donutchart" data-placeholder="Donut Chart" style="opacity: 1; z-index: 1;"><span class="ico-donutchart dt_icon"></span>
+					<span class="dt_module_name">Donut Chart</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"><span class="title">Code: XF235</span></div>
+						<div class="dt_module_settings"><div data-option_name="title" class="title dt_module_setting">Yearly</div><div data-option_name="subtitle" class="subtitle dt_module_setting">Code: XF235</div><div data-option_name="toptext" class="toptext dt_module_setting">Save</div><div data-option_name="bottomtext" class="bottomtext dt_module_setting">off</div><div data-option_name="bgcolor" class="bgcolor dt_module_setting">#f5f5f5</div><div data-option_name="fgcolor" class="fgcolor dt_module_setting">#22a1c4</div><div data-option_name="textcolor" class="textcolor dt_module_setting">#22a1c4</div><div data-option_name="percent" class="percent dt_module_setting">50</div><div data-option_name="donet_content" class="donet_content dt_module_setting dtthemes_module_content"><p>Has been the industry's standard dummy text ever since the 1500s.</p><p>[dt_sc_button type="without-icon" link="#" size="small" target="_blank" bgcolor="#22a1c4"]Select[/dt_sc_button]</p></div></div>
+					</div></div></div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-draggable dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div></div><div class="dt_module dt_m_clear dt_module_others dt_disable_resize ui-draggable dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Clear</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div></div></div>
+					</div>            <div class="dt_module dt_disable_resize dt_fullwidth_section fullwidth_section ui-draggable dt_first" data-name="fullwidth_section" data-placeholder="Fullwidth Section" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name">Fullwidth Section</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_fullwidth" title="Settings" style="display: block;"></span>
+								<span class="dt_add_module_column" title="Add Module" style="display:none;">A</span>
+							</div>
+							<div class="dt_fullwidthsection_data_settings"><div data-option_name="backgroundcolor" class="backgroundcolor dt_module_setting"></div><div data-option_name="backgroundimage" class="backgroundimage dt_module_setting">http://wedesignthemes.com/themes/dt-multihost/wp-content/uploads/2015/03/image-bg5.jpg</div><div data-option_name="opacity" class="opacity dt_module_setting"></div><div data-option_name="parallax" class="parallax dt_module_setting">yes</div><div data-option_name="backgroundrepeat" class="backgroundrepeat dt_module_setting"></div><div data-option_name="backgroundposition" class="backgroundposition dt_module_setting"></div><div data-option_name="paddingtop" class="paddingtop dt_module_setting"></div><div data-option_name="paddingbottom" class="paddingbottom dt_module_setting"></div><div data-option_name="margintop" class="margintop dt_module_setting"></div><div data-option_name="marginbottom" class="marginbottom dt_module_setting">-80</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="class" class="class dt_module_setting">dark-bg has-overlay</div></div>
+						</div><div class="dt_fullwidth_section_container ui-droppable ui-sortable" aria-disabled="false"><div class="dt_module dt_m_hr_invisible_large dt_module_others dt_disable_resize  ui-draggable dt_first" data-name="hr_invisible_large" data-placeholder="Whitespace Large" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace Large</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div><div class="dt_module dt_m_clear dt_module_others dt_disable_resize  ui-draggable dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Clear</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div><div class="dt_module dt_m_doshortcode_pricing_table_3 dt_module_general  ui-draggable ui-resizable dt_first" data-name="doshortcode_pricing_table_3" data-placeholder="Pricing Table 3" style="opacity: 1; z-index: 1;"><span class="ico-pricingtable dt_icon"></span>
+					<span class="dt_module_name">Pricing Table 3</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div data-option_name="pt_content" class="pt_content dt_module_setting dtthemes_module_content"><p>[dt_sc_pricing_table class='type3']</p><p>[dt_sc_one_fourth first]<br>[dt_sc_pricing_table_item_3 title='Dedicated Servers' subtitle='Neque porro quisquam est' fontawesome='' icon='http://wedesignthemes.com/themes/dt-multihost/wp-content/uploads/2015/03/secure-colored.png' button_text='See More' button_link='#' currency='$' saleprice='625' per='/yr' regularprice='1100']<br>[/dt_sc_pricing_table_item_3]<br>[/dt_sc_one_fourth]</p><p>[dt_sc_one_fourth]<br>[dt_sc_pricing_table_item_3 title='Grid Web Hosting' subtitle='Neque porro quisquam est' fontawesome='' icon='http://wedesignthemes.com/themes/dt-multihost/wp-content/uploads/2015/03/db-share-colored.png' button_text='See More' button_link='#' currency='$' saleprice='500' per='/yr' regularprice='1060']<br>[/dt_sc_pricing_table_item_3]<br>[/dt_sc_one_fourth]</p><p>[dt_sc_one_fourth]<br>[dt_sc_pricing_table_item_3 title='NextGen Hosting' subtitle='Neque porro quisquam est' fontawesome='' icon='http://wedesignthemes.com/themes/dt-multihost/wp-content/uploads/2015/03/db-storage-colored.png' button_text='See More' button_link='#' currency='$' saleprice='750' per='/yr' regularprice='1280' selected]<br>[/dt_sc_pricing_table_item_3]<br>[/dt_sc_one_fourth]</p><p>[dt_sc_one_fourth]<br>[dt_sc_pricing_table_item_3 title='Resellers Hosting' subtitle='Neque porro quisquam est' fontawesome='' icon='http://wedesignthemes.com/themes/dt-multihost/wp-content/uploads/2015/03/server-colored.png' button_text='See More' button_link='#' currency='$' saleprice='960' per='/yr' regularprice='1920']<br>[/dt_sc_pricing_table_item_3]<br>[/dt_sc_one_fourth]</p><p>[/dt_sc_pricing_table]</p></div></div>
+					<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_hr_invisible_medium dt_module_others dt_disable_resize  ui-draggable dt_first" data-name="hr_invisible_medium" data-placeholder="Whitespace Medium" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace Medium</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div><div class="dt_module dt_m_clear dt_module_others dt_disable_resize  ui-draggable dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Clear</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div></div></div>
+					</div>

@@ -1,0 +1,67 @@
+= Multi Host - Responsive WordPress Theme =
+
+12-06-2015 - version 1.0
+   * First Release!
+
+15-06-2015 - version 1.1
+   * prettyPhoto XSS fix
+   * Added option to enable or disable page loader
+
+16-06-2015 - version 1.2
+   * XSS fix
+   * Replaced dummy content
+   * CSS fix
+
+20-06-2015 - version 1.3
+   * Added dummy-flat-revslider.zip
+
+26-06-2015 - version 1.4
+   * Now compatible with Woocommerce 2.3
+   * XSS vulnerability in the prettyPhoto jQuery library.
+   * Replaced Pre-loader with the New one.
+   * Changed Skin (RoyalBlue) and set to default one.
+
+28-07-2015 - version 1.5
+  * Updated WHMCS Templates
+  * CSS fixes
+
+18-09-2015 - version 1.5.1
+* Compatible with WordPress 4.3.1
+* Updated Font Awesome
+
+21-04-2016 - version 1.5.2
+* Compatible with WordPress 4.5
+* Updated class-tgm-plugin-activation.php located at framework
+* Updated utils.php located at framework
+* Updated menu.php located at framework/theme_options
+* Updated all plugins located at framework/plugins
+
+30-07-2016 - version 1.5.3
+* Updated utils.php located at framework
+* Updated whmcs-templates / multihost.zip
+* Removed whmcs-templates / multihostof.zip
+
+23-08-2016 - version 1.5.4
+* Compatible with WordPress 4.6
+* Compatible with Visual Composer 4.12
+
+- version 1.5.5
+* Compatible with WordPress 4.6.1
+* Updated DesignThemes Page builder ( Now compatible with WPML )
+* Updated Font Awesome css
+* Updated Mailchimp widget with latest API
+* Updated Dummy Data importer
+* Now Multihost compatible with SSL
+* Global page, post layout option
+* Updated DesignThemes Core Plugin
+
+24-11-2016 - version 1.5.6
+* Page builder fix
+
+15-12-2016 - version 1.5.7
+* Bug Fixes
+* Compatible with WordPress 4.7
+
+25-01-2017 - version 1.5.8
+* Updated WHMCS templates, now compatible with WHMCS V7 series
+* Included Responsive Google Map plugin

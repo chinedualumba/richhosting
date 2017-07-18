@@ -1,0 +1,52 @@
+<div class="dt_module dt_m_icon_title dt_module_others  ui-draggable ui-resizable dt_first" data-name="icon_title" data-placeholder="Heading Type 3" style="opacity: 1; z-index: 1;"><span class="ico-headings dt_icon"></span>
+					<span class="dt_module_name">Heading Type 3</span><div class="dt_module_options"><span style="display: block;" class="dt_move"></span><span style="display: block;" class="dt_showorhide dt_show" title="Show"></span>
+						<span style="display: block;" class="dt_delete" title="Delete"></span>
+						<span style="display: block;" class="dt_clone_module" title="Clone"></span><span style="display: block;" class="dt_settings_arrow_module" title="Settings"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">h2</div><div data-option_name="fontawesome" class="fontawesome dt_module_setting">fa-globe</div><div data-option_name="class" class="class dt_module_setting"></div><div data-option_name="content" class="content dt_module_setting dtthemes_module_content">We are really happy to help</div></div>
+					<div style="z-index: 90;" class="ui-resizable-handle ui-resizable-e"></div></div>                                    <div class="dt_module dt_disable_resize dt_fullwidth_section fullwidth_section ui-draggable dt_first" data-name="fullwidth_section" data-placeholder="Fullwidth Section" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name">Fullwidth Section</span>
+							<span style="display: none;" class="dt_move"></span>
+							<div class="dt_module_options">
+								<span style="display: block;" class="dt_delete_column" title="Delete"></span>
+								<span style="display: block;" class="dt_clone_column" title="Clone"></span>
+								<span style="display: block;" class="dt_settings_arrow_fullwidth" title="Settings"></span>
+								<span class="dt_add_module_column" title="Add Module" style="display:none;">A</span>
+							</div>
+							<div class="dt_fullwidthsection_data_settings"></div>
+						</div><div aria-disabled="false" class="dt_fullwidth_section_container ui-droppable ui-sortable"><div class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1; z-index: 1;"><span class="ico-anycontent dt_icon"></span>
+					<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span style="display: block;" class="dt_move"></span><span style="display: block;" class="dt_showorhide dt_show" title="Show"></span>
+						<span style="display: block;" class="dt_delete" title="Delete"></span>
+						<span style="display: block;" class="dt_clone_module" title="Clone"></span><span style="display: block;" class="dt_settings_arrow_module" title="Settings"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p>[dt_sc_one_half first type =" type1"]</p><p>[dt_sc_title_styled type="h3" class="left" style="right" span="New domains"]available[/dt_sc_title_styled]</p><p>[dt_sc_fancy_ul class='type2 dt-sc-domains-list']</p><ul><li>[dt_sc_fontawesome icon=''] [dt_sc_title_styled type="h3" class="left" style="left" span=".ninja"][/dt_sc_title_styled][dt_sc_button type="without-icon" link="#" size="small" target="_blank"]Register[/dt_sc_button]</li><li>[dt_sc_fontawesome icon=''] [dt_sc_title_styled type="h3" class="left" style="left" span=".reviews"][/dt_sc_title_styled][dt_sc_button type="without-icon" link="#" size="small" target="_blank"]Register[/dt_sc_button]</li><li>[dt_sc_fontawesome icon=''] [dt_sc_title_styled type="h3" class="left" style="left" span=".wiki"][/dt_sc_title_styled][dt_sc_button type="without-icon" link="#" size="small" target="_blank"]Register[/dt_sc_button]</li><li>[dt_sc_fontawesome icon=''] [dt_sc_title_styled type="h3" class="left" style="left" span=".rentals"][/dt_sc_title_styled][dt_sc_button type="without-icon" link="#" size="small" target="_blank"]Register[/dt_sc_button]</li></ul><p>[/dt_sc_fancy_ul]<br>[/dt_sc_one_half]</p><p>[dt_sc_one_half type =" type1"]</p><p>[dt_sc_title_styled type="h3" class="left" style="right" span="New domains"]available[/dt_sc_title_styled]</p><p>[dt_sc_fancy_ul class='type2 dt-sc-domains-list']</p><ul><li>[dt_sc_fontawesome icon=''] [dt_sc_title_styled type="h3" class="left" style="left" span=".nyc"][/dt_sc_title_styled][dt_sc_button type="without-icon" link="#" size="small" target="_blank"]Register[/dt_sc_button]</li><li>[dt_sc_fontawesome icon=''] [dt_sc_title_styled type="h3" class="left" style="left" span=".vegas"][/dt_sc_title_styled][dt_sc_button type="without-icon" link="#" size="small" target="_blank"]Register[/dt_sc_button]</li><li>[dt_sc_fontawesome icon=''] [dt_sc_title_styled type="h3" class="left" style="left" span=".website"][/dt_sc_title_styled][dt_sc_button type="without-icon" link="#" size="small" target="_blank"]Register[/dt_sc_button]</li><li>[dt_sc_fontawesome icon=''] [dt_sc_title_styled type="h3" class="left" style="left" span=".app"][/dt_sc_title_styled][dt_sc_button type="without-icon" link="#" size="small" target="_blank"]Register[/dt_sc_button]</li></ul><p>[/dt_sc_fancy_ul]<br>[/dt_sc_one_half]</p></div></div>
+					</div><div class="dt_module dt_m_domains_carousel dt_module_unique  ui-draggable ui-resizable dt_first" data-name="domains_carousel" data-placeholder="Domain Carousel" style="opacity: 1; z-index: 1;"><span class="ico-team dt_icon"></span>
+					<span class="dt_module_name">Domain Carousel</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div data-option_name="ibc_content" class="dtthemes_module_content ibc_content dt_module_setting"><ul>
+				<li>[dt_sc_domain text="Domain names ranging from" price="$2.49" per="/Mo" featured/]</li>
+				<li>[dt_sc_domain tld=".com" price="$5.99"/]</li>
+				<li>[dt_sc_domain tld=".in" price="$3.49"/]</li>
+				<li>[dt_sc_domain tld=".org" price="$6.99"/]</li>
+				<li>[dt_sc_domain tld=".net" price="$8.99"/]</li>
+				<li>[dt_sc_domain tld=".biz" price="$7.49"/]</li>
+				<li>[dt_sc_domain tld=".app" price="$4.99"/]</li>
+				</ul></div></div>
+					</div><div class="dt_module dt_m_faqs_carousel dt_module_unique  ui-draggable ui-resizable dt_first" data-name="faqs_carousel" data-placeholder="FAQs Carousel" style="opacity: 1; z-index: 1;"><span class="ico-team dt_icon"></span>
+					<span class="dt_module_name">FAQs Carousel</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div data-option_name="ibc_content" class="dtthemes_module_content ibc_content dt_module_setting"><ul>
+				<li>[dt_sc_faq text="How to create a new email account" icon="" fontawesome="fa-file"/]</li>
+				<li>[dt_sc_faq text="Setting up your email with Gmail" icon="" fontawesome="fa-question-circle"/]</li>
+				<li>[dt_sc_faq text="How to Manage your emails &amp; accounts" icon="" fontawesome="fa-play-circle"/]</li>
+				<li>[dt_sc_faq text="How to use Smart FTP Clients" icon="" fontawesome="fa-question-circle"/]</li>
+				<li>[dt_sc_faq text=".htacccess tutorial" icon="" fontawesome="fa-play-circle"/]</li>
+				<li>[dt_sc_faq text="Easy Mail Account Configuration" icon="" fontawesome="fa-file"/]</li>
+				<li>[dt_sc_faq text="Overview - Complete Hosting Solutions" icon="" fontawesome="fa-play-circle"/]</li>
+				</ul></div></div>
+					</div></div>
+					</div>
